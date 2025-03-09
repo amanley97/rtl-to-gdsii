@@ -1,3 +1,6 @@
 [submodule "cva6"]
 	path = cva6
 	url = https://github.com/openhwgroup/cva6.git
+[submodule "tech/asap7"]
+	path = tech/asap7
+	url = https://github.com/The-OpenROAD-Project/asap7sc7p5t_28.git
