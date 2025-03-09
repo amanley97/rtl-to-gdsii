@@ -15,7 +15,7 @@
 DESIGN_NAME          ?= cva6
 PERIOD               ?= 17
 FOUNDRY_PATH         ?= ../tech/asap7
-LOCAL_LIB_PATH       ?= $(FOUNDRY_PATH)/LIB/CCS/extracted_libs
+LOCAL_LIB_PATH       ?= $(FOUNDRY_PATH)/../extracted_libs
 
 # Only necessary asap7 libraries
 SYNTH_LIBS := \
